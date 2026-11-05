@@ -1,0 +1,1 @@
+export { getLandingContent } from '../../api';

@@ -1,0 +1,680 @@
+{
+  "note": "SYNTHETIC test truth. Never load into the product as observations.",
+  "trueOpenLagMin": [
+    1,
+    5
+  ],
+  "trueLingerMin": [
+    2,
+    10
+  ],
+  "trueResetMin": 4,
+  "sizeP": [
+    [
+      1,
+      0.08
+    ],
+    [
+      2,
+      0.46
+    ],
+    [
+      3,
+      0.14
+    ],
+    [
+      4,
+      0.19
+    ],
+    [
+      5,
+      0.06
+    ],
+    [
+      6,
+      0.07
+    ]
+  ],
+  "nights": [
+    {
+      "date": "2026-07-15",
+      "dow": 3,
+      "latentParties": 36,
+      "seatedParties": 29,
+      "walkaways": 7,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-07-16",
+      "dow": 4,
+      "latentParties": 30,
+      "seatedParties": 27,
+      "walkaways": 3,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-07-17",
+      "dow": 5,
+      "latentParties": 51,
+      "seatedParties": 35,
+      "walkaways": 16,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-07-18",
+      "dow": 6,
+      "latentParties": 51,
+      "seatedParties": 34,
+      "walkaways": 17,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-07-19",
+      "dow": 0,
+      "latentParties": 29,
+      "seatedParties": 25,
+      "walkaways": 4,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-07-22",
+      "dow": 3,
+      "latentParties": 36,
+      "seatedParties": 27,
+      "walkaways": 9,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-07-23",
+      "dow": 4,
+      "latentParties": 32,
+      "seatedParties": 27,
+      "walkaways": 5,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-07-24",
+      "dow": 5,
+      "latentParties": 48,
+      "seatedParties": 31,
+      "walkaways": 17,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-07-25",
+      "dow": 6,
+      "latentParties": 44,
+      "seatedParties": 36,
+      "walkaways": 8,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-07-26",
+      "dow": 0,
+      "latentParties": 38,
+      "seatedParties": 29,
+      "walkaways": 9,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-07-29",
+      "dow": 3,
+      "latentParties": 33,
+      "seatedParties": 27,
+      "walkaways": 6,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-07-30",
+      "dow": 4,
+      "latentParties": 31,
+      "seatedParties": 29,
+      "walkaways": 2,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-07-31",
+      "dow": 5,
+      "latentParties": 39,
+      "seatedParties": 29,
+      "walkaways": 10,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-01",
+      "dow": 6,
+      "latentParties": 49,
+      "seatedParties": 32,
+      "walkaways": 17,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-02",
+      "dow": 0,
+      "latentParties": 43,
+      "seatedParties": 33,
+      "walkaways": 10,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-05",
+      "dow": 3,
+      "latentParties": 36,
+      "seatedParties": 29,
+      "walkaways": 7,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-06",
+      "dow": 4,
+      "latentParties": 37,
+      "seatedParties": 34,
+      "walkaways": 3,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-07",
+      "dow": 5,
+      "latentParties": 63,
+      "seatedParties": 37,
+      "walkaways": 26,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-08",
+      "dow": 6,
+      "latentParties": 49,
+      "seatedParties": 34,
+      "walkaways": 15,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-09",
+      "dow": 0,
+      "latentParties": 38,
+      "seatedParties": 33,
+      "walkaways": 5,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-12",
+      "dow": 3,
+      "latentParties": 26,
+      "seatedParties": 23,
+      "walkaways": 3,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-13",
+      "dow": 4,
+      "latentParties": 33,
+      "seatedParties": 27,
+      "walkaways": 6,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-14",
+      "dow": 5,
+      "latentParties": 50,
+      "seatedParties": 32,
+      "walkaways": 18,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-15",
+      "dow": 6,
+      "latentParties": 53,
+      "seatedParties": 33,
+      "walkaways": 20,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-16",
+      "dow": 0,
+      "latentParties": 34,
+      "seatedParties": 26,
+      "walkaways": 8,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-19",
+      "dow": 3,
+      "latentParties": 37,
+      "seatedParties": 29,
+      "walkaways": 8,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-20",
+      "dow": 4,
+      "latentParties": 37,
+      "seatedParties": 32,
+      "walkaways": 5,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-21",
+      "dow": 5,
+      "latentParties": 47,
+      "seatedParties": 36,
+      "walkaways": 11,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-22",
+      "dow": 6,
+      "latentParties": 61,
+      "seatedParties": 36,
+      "walkaways": 25,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-23",
+      "dow": 0,
+      "latentParties": 30,
+      "seatedParties": 24,
+      "walkaways": 6,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-26",
+      "dow": 3,
+      "latentParties": 36,
+      "seatedParties": 30,
+      "walkaways": 6,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-27",
+      "dow": 4,
+      "latentParties": 40,
+      "seatedParties": 29,
+      "walkaways": 11,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-28",
+      "dow": 5,
+      "latentParties": 44,
+      "seatedParties": 33,
+      "walkaways": 11,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-29",
+      "dow": 6,
+      "latentParties": 44,
+      "seatedParties": 34,
+      "walkaways": 10,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-08-30",
+      "dow": 0,
+      "latentParties": 32,
+      "seatedParties": 26,
+      "walkaways": 6,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-09-02",
+      "dow": 3,
+      "latentParties": 32,
+      "seatedParties": 29,
+      "walkaways": 3,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-09-03",
+      "dow": 4,
+      "latentParties": 45,
+      "seatedParties": 26,
+      "walkaways": 19,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-09-04",
+      "dow": 5,
+      "latentParties": 43,
+      "seatedParties": 31,
+      "walkaways": 12,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-09-05",
+      "dow": 6,
+      "latentParties": 64,
+      "seatedParties": 36,
+      "walkaways": 28,
+      "plantedMult": 1.25
+    },
+    {
+      "date": "2026-09-06",
+      "dow": 0,
+      "latentParties": 37,
+      "seatedParties": 30,
+      "walkaways": 7,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-09-09",
+      "dow": 3,
+      "latentParties": 24,
+      "seatedParties": 21,
+      "walkaways": 3,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-09-10",
+      "dow": 4,
+      "latentParties": 36,
+      "seatedParties": 32,
+      "walkaways": 4,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-09-11",
+      "dow": 5,
+      "latentParties": 65,
+      "seatedParties": 39,
+      "walkaways": 26,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-09-12",
+      "dow": 6,
+      "latentParties": 55,
+      "seatedParties": 34,
+      "walkaways": 21,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-09-13",
+      "dow": 0,
+      "latentParties": 34,
+      "seatedParties": 26,
+      "walkaways": 8,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-09-16",
+      "dow": 3,
+      "latentParties": 29,
+      "seatedParties": 25,
+      "walkaways": 4,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-09-17",
+      "dow": 4,
+      "latentParties": 32,
+      "seatedParties": 29,
+      "walkaways": 3,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-09-18",
+      "dow": 5,
+      "latentParties": 47,
+      "seatedParties": 35,
+      "walkaways": 12,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-09-19",
+      "dow": 6,
+      "latentParties": 65,
+      "seatedParties": 36,
+      "walkaways": 29,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-09-20",
+      "dow": 0,
+      "latentParties": 35,
+      "seatedParties": 33,
+      "walkaways": 2,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-09-23",
+      "dow": 3,
+      "latentParties": 27,
+      "seatedParties": 24,
+      "walkaways": 3,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-09-24",
+      "dow": 4,
+      "latentParties": 41,
+      "seatedParties": 32,
+      "walkaways": 9,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-09-25",
+      "dow": 5,
+      "latentParties": 44,
+      "seatedParties": 34,
+      "walkaways": 10,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-09-26",
+      "dow": 6,
+      "latentParties": 60,
+      "seatedParties": 34,
+      "walkaways": 26,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-09-27",
+      "dow": 0,
+      "latentParties": 33,
+      "seatedParties": 26,
+      "walkaways": 7,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-09-30",
+      "dow": 3,
+      "latentParties": 23,
+      "seatedParties": 22,
+      "walkaways": 1,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-01",
+      "dow": 4,
+      "latentParties": 28,
+      "seatedParties": 24,
+      "walkaways": 4,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-02",
+      "dow": 5,
+      "latentParties": 46,
+      "seatedParties": 34,
+      "walkaways": 12,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-03",
+      "dow": 6,
+      "latentParties": 54,
+      "seatedParties": 34,
+      "walkaways": 20,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-04",
+      "dow": 0,
+      "latentParties": 33,
+      "seatedParties": 28,
+      "walkaways": 5,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-07",
+      "dow": 3,
+      "latentParties": 32,
+      "seatedParties": 32,
+      "walkaways": 0,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-08",
+      "dow": 4,
+      "latentParties": 31,
+      "seatedParties": 29,
+      "walkaways": 2,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-09",
+      "dow": 5,
+      "latentParties": 47,
+      "seatedParties": 31,
+      "walkaways": 16,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-10",
+      "dow": 6,
+      "latentParties": 48,
+      "seatedParties": 36,
+      "walkaways": 12,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-11",
+      "dow": 0,
+      "latentParties": 34,
+      "seatedParties": 25,
+      "walkaways": 9,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-14",
+      "dow": 3,
+      "latentParties": 30,
+      "seatedParties": 27,
+      "walkaways": 3,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-15",
+      "dow": 4,
+      "latentParties": 35,
+      "seatedParties": 31,
+      "walkaways": 4,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-16",
+      "dow": 5,
+      "latentParties": 39,
+      "seatedParties": 32,
+      "walkaways": 7,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-17",
+      "dow": 6,
+      "latentParties": 63,
+      "seatedParties": 36,
+      "walkaways": 27,
+      "plantedMult": 1.25
+    },
+    {
+      "date": "2026-10-18",
+      "dow": 0,
+      "latentParties": 47,
+      "seatedParties": 35,
+      "walkaways": 12,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-21",
+      "dow": 3,
+      "latentParties": 25,
+      "seatedParties": 24,
+      "walkaways": 1,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-22",
+      "dow": 4,
+      "latentParties": 40,
+      "seatedParties": 32,
+      "walkaways": 8,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-23",
+      "dow": 5,
+      "latentParties": 50,
+      "seatedParties": 36,
+      "walkaways": 14,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-24",
+      "dow": 6,
+      "latentParties": 50,
+      "seatedParties": 39,
+      "walkaways": 11,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-25",
+      "dow": 0,
+      "latentParties": 33,
+      "seatedParties": 26,
+      "walkaways": 7,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-28",
+      "dow": 3,
+      "latentParties": 31,
+      "seatedParties": 26,
+      "walkaways": 5,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-29",
+      "dow": 4,
+      "latentParties": 37,
+      "seatedParties": 29,
+      "walkaways": 8,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-30",
+      "dow": 5,
+      "latentParties": 37,
+      "seatedParties": 30,
+      "walkaways": 7,
+      "plantedMult": 1
+    },
+    {
+      "date": "2026-10-31",
+      "dow": 6,
+      "latentParties": 51,
+      "seatedParties": 32,
+      "walkaways": 19,
+      "plantedMult": 0.85
+    },
+    {
+      "date": "2026-11-01",
+      "dow": 0,
+      "latentParties": 34,
+      "seatedParties": 25,
+      "walkaways": 9,
+      "plantedMult": 1
+    }
+  ]
+}

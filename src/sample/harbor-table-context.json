@@ -1,0 +1,77 @@
+{
+  "note": "SYNTHETIC demo context fixture for Harbor Table (fictional). Not real events or weather.",
+  "location": {
+    "lat": 37.5483,
+    "lon": -121.9886,
+    "label": "Fremont, CA (demo location)"
+  },
+  "events": [
+    {
+      "date": "2026-11-06",
+      "name": "Demo: high-school football home game (fixture)"
+    },
+    {
+      "date": "2026-11-07",
+      "name": "Demo: Harbor Jazz Night (fixture, owner-entered assumption)",
+      "assumedMultiplier": 1.15
+    }
+  ],
+  "schoolBreaks": [
+    {
+      "start": "2026-11-23",
+      "end": "2026-11-27",
+      "name": "Demo: Thanksgiving break (fixture)"
+    }
+  ],
+  "weather": [
+    {
+      "date": "2026-11-04",
+      "summary": "Partly sunny (fixture)",
+      "highF": 68,
+      "precipPct": 10,
+      "source": "fixture"
+    },
+    {
+      "date": "2026-11-05",
+      "summary": "Partly sunny (fixture)",
+      "highF": 70,
+      "precipPct": 10,
+      "source": "fixture"
+    },
+    {
+      "date": "2026-11-06",
+      "summary": "Partly sunny (fixture)",
+      "highF": 66,
+      "precipPct": 10,
+      "source": "fixture"
+    },
+    {
+      "date": "2026-11-07",
+      "summary": "Rain (fixture)",
+      "highF": 61,
+      "precipPct": 70,
+      "source": "fixture"
+    },
+    {
+      "date": "2026-11-08",
+      "summary": "Partly sunny (fixture)",
+      "highF": 63,
+      "precipPct": 10,
+      "source": "fixture"
+    },
+    {
+      "date": "2026-11-09",
+      "summary": "Partly sunny (fixture)",
+      "highF": 67,
+      "precipPct": 10,
+      "source": "fixture"
+    },
+    {
+      "date": "2026-11-10",
+      "summary": "Partly sunny (fixture)",
+      "highF": 69,
+      "precipPct": 10,
+      "source": "fixture"
+    }
+  ]
+}
