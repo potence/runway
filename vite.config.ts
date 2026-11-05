@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => {
   // proxy adds the key header. Production builds ship only an "off" flag, so the AI review stays hidden.
   const aiOn = mode === 'development' && geminiKey !== '';
   return {
-    plugins: [react()],
+    base: './', plugins: [react()],
     define: { 'import.meta.env.VITE_AI_REVIEW': JSON.stringify(aiOn ? 'on' : '') },
     server: aiOn
       ? {
